@@ -10,11 +10,6 @@ source $ZSH/oh-my-zsh.sh
 alias rc='vim ~/.zshrc'
 alias reload='source ~/.zshrc'
 alias gitcom='git commit -m'
-#alias csug1='ssh -l lming2 cycle1.csug.rochester.edu'
-#alias csug2='ssh -l lming2 cycle2.csug.rochester.edu'
-#alias csug3='ssh -l lming2 cycle3.csug.rochester.edu'
-#alias csug4='ssh -l lming2 cycle4.csug.rochester.edu'
-#alias bluehive='ssh lming2@@bluehive.circ.rochester.edu'
 [[ ! -f ~/.p10k.zsh ]] #|| source ~/.p10k.zsh
 
 export NVM_DIR="$HOME/.nvm"
